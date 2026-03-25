@@ -2,6 +2,7 @@ import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
   docs: [
+    'roadmap',
     {
       type: 'category',
       label: 'Architecture',
