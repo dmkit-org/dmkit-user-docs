@@ -8,10 +8,10 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://dmkit-org.github.io',
-  baseUrl: '/dmkit-user-docs/',
+  baseUrl: '/user-docs/',
 
   organizationName: 'dmkit-org',
-  projectName: 'dmkit-user-docs',
+  projectName: 'user-docs',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -28,7 +28,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/dmkit-org/dmkit-user-docs/tree/main/',
+          editUrl: 'https://github.com/dmkit-org/user-docs/tree/main/',
         },
         blog: false,
         theme: {
